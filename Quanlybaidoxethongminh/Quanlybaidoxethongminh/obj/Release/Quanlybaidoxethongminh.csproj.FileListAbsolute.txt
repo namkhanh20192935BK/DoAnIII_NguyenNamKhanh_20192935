@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Quanlybaidoxethongminh\Quanlybaidoxethongminh\bin\Release\Database1.mdf
+C:\Users\Admin\source\repos\Quanlybaidoxethongminh\Quanlybaidoxethongminh\bin\Release\Database1_log.ldf
+C:\Users\Admin\source\repos\Quanlybaidoxethongminh\Quanlybaidoxethongminh\bin\Release\Quanlybaidoxethongminh.exe.config
+C:\Users\Admin\source\repos\Quanlybaidoxethongminh\Quanlybaidoxethongminh\bin\Release\Quanlybaidoxethongminh.exe
+C:\Users\Admin\source\repos\Quanlybaidoxethongminh\Quanlybaidoxethongminh\bin\Release\Quanlybaidoxethongminh.pdb
+C:\Users\Admin\source\repos\Quanlybaidoxethongminh\Quanlybaidoxethongminh\obj\Release\Quanlybaidoxethongminh.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Quanlybaidoxethongminh\Quanlybaidoxethongminh\obj\Release\Quanlybaidoxethongminh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Quanlybaidoxethongminh\Quanlybaidoxethongminh\obj\Release\Quanlybaidoxethongminh.Home.resources
+C:\Users\Admin\source\repos\Quanlybaidoxethongminh\Quanlybaidoxethongminh\obj\Release\Quanlybaidoxethongminh.Login.resources
+C:\Users\Admin\source\repos\Quanlybaidoxethongminh\Quanlybaidoxethongminh\obj\Release\Quanlybaidoxethongminh.Properties.Resources.resources
+C:\Users\Admin\source\repos\Quanlybaidoxethongminh\Quanlybaidoxethongminh\obj\Release\Quanlybaidoxethongminh.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Quanlybaidoxethongminh\Quanlybaidoxethongminh\obj\Release\Quanlybaidoxethongminh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Quanlybaidoxethongminh\Quanlybaidoxethongminh\obj\Release\Quanlybaidoxethongminh.exe
+C:\Users\Admin\source\repos\Quanlybaidoxethongminh\Quanlybaidoxethongminh\obj\Release\Quanlybaidoxethongminh.pdb

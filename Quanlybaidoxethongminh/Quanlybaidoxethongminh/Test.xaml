@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="Quanlybaidoxethongminh.Test"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Quanlybaidoxethongminh"
+             mc:Ignorable="d" 
+             d:DesignHeight="1080" d:DesignWidth="1920
+             " Width="1920">
+    <Grid Width="1920" Height="1079.7">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="77*"/>
+            <RowDefinition Height="43*"/>
+        </Grid.RowDefinitions>
+        <Image Source="D:/Dai hoc/Năm Tư_Đại học Bách Khoa Hà Nội/2022.2 Đồ án thiết kế III/Image/banner.png" Margin="7,1,1400,500"></Image>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="1701,60,0,0" VerticalAlignment="Top" Background="#FFAB4545"/>
+
+    </Grid>
+</UserControl>
