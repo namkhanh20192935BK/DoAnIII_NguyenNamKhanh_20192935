@@ -1,1 +1,0 @@
-﻿Select * from QuanLyTaiKhoan where Username = 'admin'  and Password = 'admin123'
